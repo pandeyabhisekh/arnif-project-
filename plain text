@@ -1,0 +1,22 @@
+/src
+|-- actions
+|   |-- postActions.js
+|   |-- userActions.js
+|
+|-- components
+|   |-- CommentForm.js
+|   |-- CommentList.js
+|   |-- Post.js
+|   |-- PostForm.js
+|   |-- PostList.js
+|   |-- SignIn.js
+|   |-- SignUp.js
+|   |-- UserProfile.js
+|
+|-- reducers
+|   |-- postReducer.js
+|   |-- userReducer.js
+|
+|-- App.js
+|-- index.js
+|-- store.js
